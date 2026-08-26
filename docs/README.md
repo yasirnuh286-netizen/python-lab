@@ -1,1 +1,1 @@
-﻿My Python Lab Project.
+My Python Lab Project
